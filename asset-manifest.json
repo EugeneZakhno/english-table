@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/english-table/static/css/main.0a1cfc55.css",
+    "main.css": "/english-table/static/css/main.5e831993.css",
     "main.js": "/english-table/static/js/main.35b229c4.js",
     "static/js/453.442dff22.chunk.js": "/english-table/static/js/453.442dff22.chunk.js",
     "static/media/Tenses.png": "/english-table/static/media/Tenses.09837e1a7549b95febdb.png",
     "index.html": "/english-table/index.html",
-    "main.0a1cfc55.css.map": "/english-table/static/css/main.0a1cfc55.css.map",
+    "main.5e831993.css.map": "/english-table/static/css/main.5e831993.css.map",
     "main.35b229c4.js.map": "/english-table/static/js/main.35b229c4.js.map",
     "453.442dff22.chunk.js.map": "/english-table/static/js/453.442dff22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a1cfc55.css",
+    "static/css/main.5e831993.css",
     "static/js/main.35b229c4.js"
   ]
 }
